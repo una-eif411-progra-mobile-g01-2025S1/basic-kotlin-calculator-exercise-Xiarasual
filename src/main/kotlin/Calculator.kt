@@ -1,4 +1,4 @@
-package org.example.Calculator
+package org.example
 
 class Calculator {
     fun add(a: Double, b: Double): Double {//Estructura de una función, fun nombre (variables): tipo {}
@@ -20,8 +20,4 @@ class Calculator {
         }
         return a / b
     }
-
-
-
-
 }
