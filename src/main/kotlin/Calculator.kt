@@ -6,7 +6,7 @@ class Calculator {
         return a + b
     }
 
-    fun substract(a: Double, b: Double): Double {
+    fun subtract(a: Double, b: Double): Double {
         return a - b
     }
 
